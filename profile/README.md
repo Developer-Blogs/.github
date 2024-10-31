@@ -22,7 +22,7 @@ We welcome contributions from developers at all experience levels! Here's how yo
 3. **Submit a Pull Request (PR)**: Submit your changes and share your work with the community.
 4. **Join Discussions**: Use the Issues and Discussions sections to engage with the community and get feedback.
 
-> **Note:** For any questions or if you need assistance, feel free to reach out to our admin on [Discord](#) or [GitHub Discussions](#).
+> **Note:** For any questions or if you need assistance, feel free to reach out to our admin on [Discord](https://discord.gg/wmuGFyaN) or [GitHub Discussions](https://github.com/orgs/Developer-Blogs/discussions/1).
 
 ## 🎉 Our Vision
 
